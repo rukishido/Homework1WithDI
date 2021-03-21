@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mainScreen_fieldCountValidationError">Заполните все необходимые поля!</string>
+    <string name="mainScreen_nameValidationError">Проверьте правильность написания в поле Имя!</string>
+    <string name="mainScreen_surnameValidationError">Проверьте правильность написания в поле Фамилия!</string>
+    <string name="mainScreen_gradeValidationError">Проверьте правильность написания в поле Класс!</string>
+    <string name="mainScreen_birthdateYearValidationError">Проверьте правильность написания в поле Год рождения!</string>
+
+    <string name="mainScreen_showButton_text">Показать</string>
+    <string name="mainScreen_inputField_hint">Имя Фамилия Класс ГодРождения</string>
+</resources>
